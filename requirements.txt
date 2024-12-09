@@ -1,1 +1,11 @@
 streamlit
+pandas
+matplotlib
+seaborn
+plotly
+fastapi
+logging
+uvicorn
+python-dotenv
+numpy
+pydantic
